@@ -9,6 +9,6 @@ public class LoginPage {
 
 	public void setLoginPage(){
 		
-		System.out.println("setlogin page")
+		System.out.println("setlogin page");
 	}
 }
